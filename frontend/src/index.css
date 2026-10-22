@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "./App.css";
+
+@layer base {
+  body {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+}
